@@ -98,3 +98,7 @@ footer > span > a {
 article > ul > li {
     margin-bottom: 10px;
 }
+
+.profile {
+    float: left;
+}
